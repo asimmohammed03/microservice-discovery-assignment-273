@@ -82,10 +82,10 @@ http://localhost:8090/call
 
 Refresh multiple times.
 You will see alternating responses:
-
 Hello from Service-A running on port 8081
 Hello from Service-A running on port 8082
 
+img:
 <img width="389" height="125" alt="Screenshot 2026-03-18 at 3 38 45 PM" src="https://github.com/user-attachments/assets/1a72d502-2694-4f5f-aba5-bb97c279e609" />
 
 
