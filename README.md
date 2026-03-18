@@ -131,3 +131,31 @@ Notice:
 
 -REST APIs
 
+**Benefits of Service Mesh**
+1️⃣ Traffic Routing
+
+-A/B testing
+
+-Canary deployments
+
+-Intelligent routing
+
+-Retry policies
+
+2️⃣ Observability
+
+-Automatic metrics
+
+-Distributed tracing
+
+-Monitoring without modifying code
+
+✅ 3️⃣ Security
+
+-mTLS (automatic encryption)
+
+-Zero-trust communication
+
+-Identity-based access
+
+
