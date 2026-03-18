@@ -62,6 +62,7 @@ Run second instance using VM option:
 Now the Eureka dashboard should show:
 
 SERVICE-A  UP (2)
+<img width="1454" height="827" alt="Screenshot 2026-03-18 at 3 38 15 PM" src="https://github.com/user-attachments/assets/bcdc581d-3e15-4283-b197-8599d4a7e91a" />
 
 **Step 3 **— Start Client-Service
 
@@ -84,6 +85,9 @@ You will see alternating responses:
 
 Hello from Service-A running on port 8081
 Hello from Service-A running on port 8082
+
+<img width="389" height="125" alt="Screenshot 2026-03-18 at 3 38 45 PM" src="https://github.com/user-attachments/assets/1a72d502-2694-4f5f-aba5-bb97c279e609" />
+
 
 This confirms:
 
