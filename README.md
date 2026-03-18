@@ -81,8 +81,12 @@ Open in browser:
 http://localhost:8090/call
 
 Refresh multiple times.
+
 You will see alternating responses:
+
+
 Hello from Service-A running on port 8081
+
 Hello from Service-A running on port 8082
 
 img:
